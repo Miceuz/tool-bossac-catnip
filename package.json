@@ -1,9 +1,11 @@
 {
     "description": "Basic Open Source SAM-BA Application (BOSSA)",
-    "name": "tool-bossac",
+    "name": "tool-bossac-catnip",
     "system": [
-        "linux_x86_64"
+        "linux_x86_64",
+        "windows_amd64"
     ],
     "url": "https://github.com/Miceuz/tool-bossac-catnip",
-    "version": "1.19200"
+    "version": "1.19200",
+    "type": "uploader"
 }
